@@ -35,7 +35,6 @@ matplotlib==3.1.2
 netifaces==0.10.4
 numpy==1.17.4
 oauthlib==2.0.6
-PAM==0.4.2
 Pillow==6.2.1
 pluggy==0.6.0
 protobuf==3.10.0
@@ -44,15 +43,10 @@ pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycrypto==2.6.1
 pygobject==3.26.1
-PyJWT==1.5.3
 pyOpenSSL==17.5.0
 pyparsing==2.4.5
 pyserial==3.4
-python-apt==1.6.2
-python-dateutil==2.8.1
-python-debian==0.1.32
 pyxdg==0.25
-PyYAML==3.12
 requests==2.18.4
 requests-unixsocket==0.1.5
 service-identity==16.0.0
@@ -67,6 +61,3 @@ fw==0.35
 urllib3==1.22
 websocket==0.2.1
 websockets==8.1
-Werkzeug==0.16.0
-wrapt==1.11.2
-zope.interface==4.3.2
