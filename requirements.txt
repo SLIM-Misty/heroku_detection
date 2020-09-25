@@ -42,7 +42,7 @@ py==1.5.2
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycrypto==2.6.1
-requests==2.18.4
+requests==2.20.0
 requests-unixsocket==0.1.5
 service-identity==16.0.0
 six==1.13.0
