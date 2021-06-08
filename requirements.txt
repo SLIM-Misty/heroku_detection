@@ -35,7 +35,7 @@ matplotlib==3.1.2
 netifaces==0.10.4
 numpy==1.17.4
 oauthlib==2.0.6
-Pillow==6.2.1
+Pillow==8.2.0
 pluggy==0.6.0
 protobuf==3.10.0
 py==1.5.2
