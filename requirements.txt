@@ -47,7 +47,7 @@ requests-unixsocket==0.1.5
 service-identity==16.0.0
 six==1.13.0
 tensorboard==1.14.0
-tensorflow==1.15.4
+tensorflow==2.6.4
 tensorflow-estimator==1.15.4
 termcolor==1.1.0
 urllib3==1.22
